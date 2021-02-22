@@ -21,11 +21,11 @@ sass:
 title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: https://purmirl.github.io/
+url: http://purmirl.github.io/
 baseurl: ""
 
 google_analytics: UA-52446115-1
-repo: https://github.com/purmirl/purmirl.github.io
+repo: http://github.com/purmirl/purmirl.github.io
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
