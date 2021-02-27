@@ -8,12 +8,12 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'purmirl'
+#  name: 'purmirl'
   email: purmirl.petra@gmail.com
 #  twitter_username: joshgerdes
 #  facebook_username: joshgerdes
   github_username:  purmirl
-  linkedin_username:  'HeeGwon Cho'
+  linkedin_username:  'heegwon-cho-820119147'
 
 defaults:
   -
