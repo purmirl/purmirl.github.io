@@ -1,3 +1,7 @@
+Purmirl's Portfolio Blog
+=================
+**_purmirl.github.io_** is purmirl's portfolio blog. Will use Jekyll Theme. Reference under the documents **_jekyll-uno_** theme.
+
 # jekyll-uno
 
 Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
