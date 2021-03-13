@@ -1,7 +1,8 @@
 Purmirl's Portfolio Blog
 =================
 URL : https://purmirl.github.io   
-**_purmirl.github.io_** is purmirl's portfolio blog. Will use Jekyll Theme. Reference under the documents **_jekyll-uno_** theme.
+**_purmirl.github.io_** is purmirl's portfolio blog. Will use Jekyll Theme(uno). The theme is using the sass.
+Reference under the documents **_jekyll-uno_** theme.
 
 # jekyll-uno
 
